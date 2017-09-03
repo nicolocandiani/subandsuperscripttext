@@ -1,5 +1,5 @@
 //
-//  attributedString.swift
+//  customText.swift
 //
 //  Created by Nicolò Candiani on 03/09/17.
 //
