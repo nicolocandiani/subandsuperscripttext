@@ -1,4 +1,4 @@
-# Subscript and superscript text - SWift 4
+# Subscript and superscript text - Swift 4
 **Subscript and superscript text** is a Swift Extension for **Swift 4** which provides easy creation of a custom superscripted or subscripted text for 
 a UILabel from a String to a NSMutableAttributedString. This extension is great if you are developing an app with scientific purposes, 
 where you have to write equation or unit of measure.
