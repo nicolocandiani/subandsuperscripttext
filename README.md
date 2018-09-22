@@ -29,5 +29,3 @@ Subscript:</br>
 ### INSTALLATION
 Drag the file inside your project and you're ready to go!
 
-### LICENSE
-No license. Free to use for everyone
